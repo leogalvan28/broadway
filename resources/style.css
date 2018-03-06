@@ -1,0 +1,29 @@
+
+
+.section1 {
+	background-image: url(C:/xampp/htdocs/broadway/img/the-flatiron-building.png);
+}
+
+
+.section1 h1 {
+	font-size: 70px;
+	color:white;
+	text-align: center;
+	font-family: 'helvetica';
+}
+
+.menu{
+	text-align: center;
+
+}
+
+.menu a{
+	color:#ffffff;
+	font-family: 'helvetica';
+	font-size: 18px;
+}
+
+li {
+	list-style: none;
+
+}
